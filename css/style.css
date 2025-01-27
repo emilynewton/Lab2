@@ -1,10 +1,10 @@
 body {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 30px;
   }
   
   .sender-column {
-    text-align: right;
+    text-align: right; 
   }
   
   h1 {
@@ -22,3 +22,5 @@ body {
   p, li, dd, dt, address {
     line-height: 1.5;
   }
+
+
