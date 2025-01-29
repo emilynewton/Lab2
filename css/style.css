@@ -1,8 +1,9 @@
 body {
     max-width: 800px;
-    margin: 30px;
+    margin: auto; 
     background-color: #f5e4ed;
-    font-family:'Serif','Georgia'
+    font-family:'Serif','Georgia';
+    padding: 20px 30px 30px 30px; 
   }
   
   .sender-column {
