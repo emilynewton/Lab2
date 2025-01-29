@@ -22,8 +22,4 @@ you do not need to setup a local server to run the project.
 
 ## Testing
 
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+No tests are needed for this site. 
